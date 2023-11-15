@@ -1,2 +1,2 @@
-# gamehub-cs-swu
-Game Hub By CS SWU
+# Game Hub By CS SWU
+All-in-one games for education purpose.
